@@ -51,4 +51,5 @@ Organizations below are **officially** using Argo Rollouts. Please send a PR wit
 1. [WeLab Bank](https://www.welab.bank/)
 1. [Yotpo](https://www.yotpo.com/)
 1. [VGS](https://www.vgs.io)
-2. [Groww](https://groww.in/)
+1. [Groww](https://groww.in/)
+1. [Taboola](https://www.taboola.com)
